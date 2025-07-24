@@ -1,7 +1,6 @@
 torch
 torchvision
 transformers
-sentencepiece
 pillow
 numpy
 opencv-python
