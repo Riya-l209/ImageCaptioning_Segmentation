@@ -40,7 +40,7 @@ Image_Captioning_Segmentation/
 ## ▶ **Run Locally**
 1. Clone the repo:  
 ```bash
-git clone https://github.com/your-username/image-captioning-segmentation.git
+git clone https://github.com/Riya-l209/ImageCaptioning_Segmentation.git
 cd image-captioning-segmentation
 
 Install dependencies:
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 Run the app:
 streamlit run app.py
-
+```
 
 🎓 Learning Outcomes
 Hands-on experience with Computer Vision + NLP integration.
