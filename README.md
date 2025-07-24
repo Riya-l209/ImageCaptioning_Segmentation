@@ -1,5 +1,13 @@
 # 🖼️ AI Image Captioning & Segmentation
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+---
+
+
 This project performs **automatic image captioning** and **object segmentation** using state-of-the-art deep learning models.  
 Upload an image, and the app will:
 
