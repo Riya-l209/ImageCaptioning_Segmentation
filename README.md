@@ -51,10 +51,15 @@ streamlit run app.py
 ```
 
 🎓 Learning Outcomes
+
 Hands-on experience with Computer Vision + NLP integration.
+
 Understanding of pre-trained transformer models for vision tasks.
+
 Deployment of ML models using Streamlit Community Cloud.
 
 👩‍💻 Author
+
 Riya Bhardwaj
+
 Data Science & Computer Vision Enthusiast
