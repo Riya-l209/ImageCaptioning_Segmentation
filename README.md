@@ -35,10 +35,6 @@ Image_Captioning_Segmentation/
 ├── captioning_segmentation.ipynb # Colab notebook (training & experimentation)
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
-
 ---
 
 ## ▶ **Run Locally**
@@ -46,23 +42,17 @@ Edit
 ```bash
 git clone https://github.com/your-username/image-captioning-segmentation.git
 cd image-captioning-segmentation
+
 Install dependencies:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
-Run the app:
 
-bash
-Copy
-Edit
+Run the app:
 streamlit run app.py
+
+
 🎓 Learning Outcomes
 Hands-on experience with Computer Vision + NLP integration.
-
 Understanding of pre-trained transformer models for vision tasks.
-
 Deployment of ML models using Streamlit Community Cloud.
 
 👩‍💻 Author
